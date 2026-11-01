@@ -1,0 +1,42 @@
+[
+  {
+    "id": "solapur",
+    "name": "Solapur",
+    "state": "Maharashtra",
+    "center_lat": 17.6599,
+    "center_lon": 75.9064,
+    "bbox": [75.70, 17.50, 76.15, 17.85],
+    "agro_zone": "Semi-Arid Deccan Plateau",
+    "primary_hazard": "drought",
+    "soil_type": "Deep Black Soil (Vertisols)",
+    "primary_crops": ["soybean", "cotton", "wheat", "sorghum"],
+    "description": "Chronic rain-shadow district vulnerable to prolonged monsoon dry spells and high evapo-transpiration."
+  },
+  {
+    "id": "darbhanga",
+    "name": "Darbhanga",
+    "state": "Bihar",
+    "center_lat": 26.1542,
+    "center_lon": 85.8918,
+    "bbox": [85.70, 26.00, 86.10, 26.35],
+    "agro_zone": "Middle Gangetic Plains (Kosi Basin)",
+    "primary_hazard": "flood",
+    "soil_type": "Alluvial Silt Loam",
+    "primary_crops": ["rice", "potato", "wheat", "maize"],
+    "description": "Low-lying floodplain with high water table and vulnerability to unseasonal flash floods from upstream river catchments."
+  },
+  {
+    "id": "cuddalore",
+    "name": "Cuddalore",
+    "state": "Tamil Nadu",
+    "center_lat": 11.7480,
+    "center_lon": 79.7714,
+    "bbox": [79.60, 11.55, 79.95, 11.90],
+    "agro_zone": "East Coast Maritime Zone",
+    "primary_hazard": "heatwave",
+    "soil_type": "Coastal Sandy & Clayey Alluvium",
+    "primary_crops": ["rice", "cotton", "groundnut", "sugarcane"],
+    "description": "Coastal region exposed to tropical maritime heat stress, humidity entrapment, and sudden cyclonic storm depressions."
+  }
+]
+

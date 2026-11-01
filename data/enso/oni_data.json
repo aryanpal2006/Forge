@@ -1,0 +1,39 @@
+{
+  "current_phase": "Neutral / Transition to La Niña",
+  "latest_oni_value": -0.42,
+  "updated_month": "October 2026",
+  "historical_correlation": {
+    "solapur": {
+      "el_nino_drought_prob": 0.68,
+      "la_nina_excess_rain_prob": 0.54,
+      "neutral_normal_rain_prob": 0.72,
+      "summary": "Solapur shows strong correlation with El Niño cycles; 68% of historical El Niño years experienced monsoon rainfall deficits >20%."
+    },
+    "darbhanga": {
+      "el_nino_drought_prob": 0.38,
+      "la_nina_excess_rain_prob": 0.76,
+      "neutral_normal_rain_prob": 0.65,
+      "summary": "Darbhanga (North Bihar) is highly flood-sensitive during La Niña and break-monsoon phases due to heavy Himalayan foothills precipitation."
+    },
+    "cuddalore": {
+      "el_nino_drought_prob": 0.45,
+      "la_nina_excess_rain_prob": 0.62,
+      "neutral_normal_rain_prob": 0.68,
+      "summary": "Cuddalore receives prime rainfall from the Northeast Monsoon (Oct-Dec); La Niña years frequently bring active easterly wave depressions and intense coastal precipitation."
+    }
+  },
+  "recent_series": [
+    {"year": 2025, "season": "ASO", "oni": 0.35, "phase": "Neutral"},
+    {"year": 2025, "season": "SON", "oni": 0.12, "phase": "Neutral"},
+    {"year": 2025, "season": "OND", "oni": -0.15, "phase": "Neutral"},
+    {"year": 2026, "season": "DJF", "oni": -0.25, "phase": "Neutral"},
+    {"year": 2026, "season": "JFM", "oni": -0.32, "phase": "Neutral"},
+    {"year": 2026, "season": "FMA", "oni": -0.38, "phase": "Neutral"},
+    {"year": 2026, "season": "MAM", "oni": -0.40, "phase": "Neutral"},
+    {"year": 2026, "season": "AMJ", "oni": -0.35, "phase": "Neutral"},
+    {"year": 2026, "season": "MJJ", "oni": -0.45, "phase": "Neutral"},
+    {"year": 2026, "season": "JAS", "oni": -0.48, "phase": "La Niña Borderline"},
+    {"year": 2026, "season": "ASO", "oni": -0.42, "phase": "Neutral / Developing La Niña"}
+  ]
+}
+

@@ -1,0 +1,15 @@
+{
+  "drought_model": {
+    "roc_auc": 0.994,
+    "brier_score": 0.079
+  },
+  "flood_model": {
+    "roc_auc": 1.0,
+    "f1_score": 0.99
+  },
+  "yield_model": {
+    "mae_pct": 2.86,
+    "rmse_pct": 3.57,
+    "ci_90_coverage_pct": 89.3
+  }
+}

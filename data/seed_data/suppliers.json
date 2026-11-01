@@ -1,0 +1,153 @@
+[
+  {
+    "id": "supp_sol_01",
+    "name": "Maharashtra Agri Agro Seed Depot",
+    "district_id": "solapur",
+    "category": "seeds",
+    "latitude": 17.6720,
+    "longitude": 75.8950,
+    "contact_phone": "+91 94220 11223",
+    "inventory_data": {
+      "drought_tolerant_soybean_kg": 8500,
+      "short_duration_sorghum_kg": 6200,
+      "unit_price_inr": 85
+    },
+    "is_active": true
+  },
+  {
+    "id": "supp_sol_02",
+    "name": "Solapur Jila Pashu Fodder Bank",
+    "district_id": "solapur",
+    "category": "fodder",
+    "latitude": 17.6410,
+    "longitude": 75.9220,
+    "contact_phone": "+91 94220 33445",
+    "inventory_data": {
+      "dry_silage_bundles": 1200,
+      "mineral_cattle_blocks": 450,
+      "unit_price_inr": 250
+    },
+    "is_active": true
+  },
+  {
+    "id": "supp_sol_03",
+    "name": "Deccan Potable Water Logistics Hub",
+    "district_id": "solapur",
+    "category": "water",
+    "latitude": 17.6850,
+    "longitude": 75.8710,
+    "contact_phone": "+91 94220 55667",
+    "inventory_data": {
+      "potable_water_liters": 150000,
+      "emergency_storage_bladders": 25,
+      "unit_price_inr": 1800
+    },
+    "is_active": true
+  },
+  {
+    "id": "supp_dar_01",
+    "name": "Mithila Flood Relief & Seed Hub",
+    "district_id": "darbhanga",
+    "category": "seeds",
+    "latitude": 26.1600,
+    "longitude": 85.8850,
+    "contact_phone": "+91 98350 22334",
+    "inventory_data": {
+      "submergence_paddy_swarna_sub1_kg": 12000,
+      "early_potato_tubers_kg": 4500,
+      "unit_price_inr": 65
+    },
+    "is_active": true
+  },
+  {
+    "id": "supp_dar_02",
+    "name": "Kosi River Drainage & De-Watering Equipments",
+    "district_id": "darbhanga",
+    "category": "equipment",
+    "latitude": 26.1420,
+    "longitude": 85.9100,
+    "contact_phone": "+91 98350 44556",
+    "inventory_data": {
+      "diesel_dewatering_pumps": 18,
+      "heavy_discharge_hoses_meters": 1500,
+      "unit_price_inr": 15000
+    },
+    "is_active": true
+  },
+  {
+    "id": "supp_dar_03",
+    "name": "North Bihar Tarpaulin & Shelter Depot",
+    "district_id": "darbhanga",
+    "category": "tarpaulins",
+    "latitude": 26.1750,
+    "longitude": 85.8650,
+    "contact_phone": "+91 98350 66778",
+    "inventory_data": {
+      "waterproof_tarpaulins_rolls": 650,
+      "silage_crop_protection_sheets": 300,
+      "unit_price_inr": 950
+    },
+    "is_active": true
+  },
+  {
+    "id": "supp_dar_04",
+    "name": "Darbhanga Pashudhan Emergency Vet Center",
+    "district_id": "darbhanga",
+    "category": "medicines",
+    "latitude": 26.1310,
+    "longitude": 85.8980,
+    "contact_phone": "+91 98350 88990",
+    "inventory_data": {
+      "waterborne_anti_infective_vials": 500,
+      "electrolytes_pouches": 1500,
+      "unit_price_inr": 420
+    },
+    "is_active": true
+  },
+  {
+    "id": "supp_cud_01",
+    "name": "Cauvery Delta Saline & Seed Store",
+    "district_id": "cuddalore",
+    "category": "seeds",
+    "latitude": 11.7550,
+    "longitude": 79.7620,
+    "contact_phone": "+91 94430 11229",
+    "inventory_data": {
+      "saline_tolerant_paddy_kg": 9500,
+      "heat_resilient_cotton_kg": 3800,
+      "unit_price_inr": 90
+    },
+    "is_active": true
+  },
+  {
+    "id": "supp_cud_02",
+    "name": "Cuddalore Agro Shade & Micro-Irrigation Supplies",
+    "district_id": "cuddalore",
+    "category": "equipment",
+    "latitude": 11.7390,
+    "longitude": 79.7820,
+    "contact_phone": "+91 94430 33441",
+    "inventory_data": {
+      "green_shade_net_rolls": 220,
+      "micro_sprinkler_nozzles": 800,
+      "unit_price_inr": 3200
+    },
+    "is_active": true
+  },
+  {
+    "id": "supp_cud_03",
+    "name": "Coromandel Coastal Water Emergency Fleet Station",
+    "district_id": "cuddalore",
+    "category": "water",
+    "latitude": 11.7680,
+    "longitude": 79.7510,
+    "contact_phone": "+91 94430 55663",
+    "inventory_data": {
+      "potable_water_liters": 120000,
+      "mobile_desalination_kits": 8,
+      "unit_price_inr": 2100
+    },
+    "is_active": true
+  }
+]
+

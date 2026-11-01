@@ -1,0 +1,91 @@
+[
+  {
+    "id": "VEH-MH-01",
+    "vehicle_code": "MH-13-TK-4401",
+    "vehicle_type": "Water Tanker (12,000L)",
+    "district_id": "solapur",
+    "capacity_kg": 12000.0,
+    "fuel_level_pct": 92.0,
+    "current_lat": 17.6850,
+    "current_lon": 75.8710,
+    "status": "idle"
+  },
+  {
+    "id": "VEH-MH-02",
+    "vehicle_code": "MH-13-TR-8812",
+    "vehicle_type": "4x4 Heavy Relief Truck",
+    "district_id": "solapur",
+    "capacity_kg": 8000.0,
+    "fuel_level_pct": 84.0,
+    "current_lat": 17.6720,
+    "current_lon": 75.8950,
+    "status": "idle"
+  },
+  {
+    "id": "VEH-BR-01",
+    "vehicle_code": "BR-07-TR-3301",
+    "vehicle_type": "4x4 Heavy Relief Truck",
+    "district_id": "darbhanga",
+    "capacity_kg": 8500.0,
+    "fuel_level_pct": 95.0,
+    "current_lat": 26.1750,
+    "current_lon": 85.8650,
+    "status": "idle"
+  },
+  {
+    "id": "VEH-BR-02",
+    "vehicle_code": "BR-07-EV-1022",
+    "vehicle_type": "Emergency Pump Response Van",
+    "district_id": "darbhanga",
+    "capacity_kg": 3500.0,
+    "fuel_level_pct": 78.0,
+    "current_lat": 26.1420,
+    "current_lon": 85.9100,
+    "status": "idle"
+  },
+  {
+    "id": "VEH-BR-03",
+    "vehicle_code": "BR-07-TR-9114",
+    "vehicle_type": "All-Terrain Supply Tractor",
+    "district_id": "darbhanga",
+    "capacity_kg": 5000.0,
+    "fuel_level_pct": 88.0,
+    "current_lat": 26.1600,
+    "current_lon": 85.8850,
+    "status": "idle"
+  },
+  {
+    "id": "VEH-TN-01",
+    "vehicle_code": "TN-31-TK-5510",
+    "vehicle_type": "Water Tanker (10,000L)",
+    "district_id": "cuddalore",
+    "capacity_kg": 10000.0,
+    "fuel_level_pct": 90.0,
+    "current_lat": 11.7680,
+    "current_lon": 79.7510,
+    "status": "idle"
+  },
+  {
+    "id": "VEH-TN-02",
+    "vehicle_code": "TN-31-TR-7204",
+    "vehicle_type": "4x4 Coastal Relief Truck",
+    "district_id": "cuddalore",
+    "capacity_kg": 7500.0,
+    "fuel_level_pct": 82.0,
+    "current_lat": 11.7550,
+    "current_lon": 79.7620,
+    "status": "idle"
+  },
+  {
+    "id": "VEH-MH-03",
+    "vehicle_code": "MH-13-EV-0909",
+    "vehicle_type": "Emergency Vet Response Van",
+    "district_id": "solapur",
+    "capacity_kg": 3000.0,
+    "fuel_level_pct": 89.0,
+    "current_lat": 17.6410,
+    "current_lon": 75.9220,
+    "status": "idle"
+  }
+]
+

@@ -1,0 +1,52 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import 'leaflet/dist/leaflet.css';
+
+:root {
+  --foreground-rgb: 15, 23, 42;
+  --background-rgb: 248, 250, 252;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Custom scrollbars */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Low-Bandwidth Mode High-Contrast Rules */
+.low-bandwidth-mode {
+  font-family: monospace !important;
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+.low-bandwidth-mode button {
+  border: 2px solid #000000 !important;
+  border-radius: 0 !important;
+  box-shadow: none !important;
+}
+
+.low-bandwidth-mode .leaflet-container {
+  filter: grayscale(100%) contrast(150%) !important;
+}
+
